@@ -1,5 +1,9 @@
 # ecommerce_client_customer
 
+## Firebase deployment
+
+https://e-commerce-customer-11f12.web.app/
+
 ## Project setup
 ```
 npm install
